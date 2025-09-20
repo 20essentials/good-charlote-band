@@ -1,0 +1,23 @@
+export const nameBand = 'GOOD CHARLOTTE';
+export const nameSongs = [
+	"THE ANTHEM", /*1*/
+	"LAST DECEMBER", /*2*/
+	"LIFESTYLES OF THE RICH AND FAMOUS", /*3*/
+	"THE RIVER", /*4*/
+	"I DON'T WANNA BE IN LOVE", /*5*/
+	"GIRLS & BOYS", /*6*/
+	"WE BELIEVE", /*7*/
+	"LITTLE THINGS", /*8*/
+	"PREDICTABLE", /*9*/
+	"KEEP YOUR HANDS OFF MY GIRL", /*10*/
+	"LIKE IT'S HER BIRTHDAY", /*11*/
+	"THE CHRONICLES OF LIFE AND DEATH", /*12*/
+	"SELF HELP", /*13*/
+	"HOLD ON", /*14*/
+	"1979", /*15*/
+	"THE MOTIVATION PROCLAMATION", /*16*/
+	"ACTUAL PAIN", /*17*/
+	"MAKESHIFT LOVE", /*18*/
+	"LAST NIGHT", /*19*/
+	"PRAYERS", /*20*/
+]
